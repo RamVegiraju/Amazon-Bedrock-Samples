@@ -3,3 +3,4 @@ In these notebooks we'll add samples for different models that are supported by 
 
 ## Videos
 - [DeepSeek-R1 Video](https://www.youtube.com/watch?v=Aj-uMqMPOEU&t=365s)
+- [NOVA Video Understanding Guide Coming Soon]()
